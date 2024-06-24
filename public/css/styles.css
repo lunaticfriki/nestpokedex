@@ -1,0 +1,12 @@
+html,
+body {
+  padding: 20px;
+  background-color: rgb(19, 3, 24);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(238, 101, 238);
+  font-size: 20px;
+}
